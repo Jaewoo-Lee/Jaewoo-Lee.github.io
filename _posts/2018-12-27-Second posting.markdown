@@ -20,8 +20,6 @@ tags: [practice]
 ---
 
 
-# 슬라이드 2
-
 
 
 <img src="https://github.com/Jaewoo-Lee/Jaewoo-Lee.github.io/blob/master/images/IMG_2609.JPG?raw=true" width="300" height="500">
