@@ -2,8 +2,12 @@
 title:  "Second post!"
 date:   2018-12-25 15:04:23
 categories: [Practice]
-tags: [practice] [tags]
+tags: [practice][tags]
 ---
+
+
+
+
 ---
 
 
@@ -23,7 +27,7 @@ tags: [practice] [tags]
 
 
 
-# 예 제가 팀장입니다. :P
+# 예, 제가 팀장입니다. :P
 
 
 
