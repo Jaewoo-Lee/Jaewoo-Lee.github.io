@@ -1,6 +1,6 @@
 ﻿---
 title:  "세번째...그만 올리고 싶다"
-date:   
+date:   2018-12-27 22:30:23
 categories: [Practice]
 tags: [practice]
 ---
