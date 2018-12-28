@@ -1,6 +1,7 @@
 ﻿---
 title:  "세번째...그만 올리고 싶다"
 date:   {{ site.time | date: '%a, %b %d, %y' }}
+
 categories: [Practice]
 tags: [practice]
 ---
