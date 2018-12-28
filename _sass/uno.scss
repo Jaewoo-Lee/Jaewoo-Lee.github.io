@@ -1043,18 +1043,21 @@ pre {
 .date,
 .time,
 .author,
-.tags {
+.tags,
+.categories {
 	font-size: .8em;
 	color: #c7c7c7; }
 	.date a,
 	.time a,
 	.author a,
-	.tags a {
+	.tags a,
+	.categories a {
 		color: #666666; }
 		.date a:hover,
 		.time a:hover,
 		.author a:hover,
-		.tags a:hover {
+		.tags a:hover,
+		.categories a:hover {
 			color: #b9301c; }
 
 .excerpt {
@@ -1150,7 +1153,8 @@ hr {
 .post-meta__date {
 	margin-right: 0em; }
 
-.post-meta__tags {
+.post-meta__tags,
+.post-meta__categories {
 	margin-left: .4em; }
 
 .post-meta__author {
@@ -1455,7 +1459,8 @@ i {
 	margin-right: 0em;
 	color: #c7c7c7; }
 
-.post-list__meta--tags {
+.post-list__meta--tags,
+.post-list__meta--categories {
 	margin-left: .5em; }
 
 .post-list__divider {
