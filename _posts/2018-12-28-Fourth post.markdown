@@ -1,7 +1,6 @@
 ---
 title:  "네번째...그만..."
-date:   {{ site.time | date: '%a, %b %d, %y' }}
-
+date:   { site.time | date: '%a, %b %d, %y' }
 categories: [Practice]
 tags: [practice]
 ---
