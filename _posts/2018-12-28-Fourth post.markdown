@@ -1,7 +1,10 @@
 ---
 title:  "네번째...그만..."
-date:   { site.time | date: '%a, %b %d, %y' }
+
+date:   
+
 categories: [Practice]
+
 tags: [practice]
 ---
 
