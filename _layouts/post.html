@@ -8,6 +8,9 @@ layout: default
       {% if page.categories.size > 0 %}
       <span class="post-meta__categories">on {% for category in page.categories %}<a href="{{ site.baseurl }}/categories/#{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
       {% endif %}
+      {% if page.tags.size > 0 %}
+      &#8227; <span class="post-meta__tags">tag: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
+      {% endif %}
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
