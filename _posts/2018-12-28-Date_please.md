@@ -1,9 +1,9 @@
 
 ---
-title: "이제는 날짜도 바뀔때가 되었잖니...?"  
-date: 2018-12-28 14:08:30  
-categories: [Practice]  
-tags: [practice]  
+title: "이제는 날짜도 바뀔때가 되었잖니...?"
+date: 2018-12-28 14:08:30
+categories: [Practice]
+tags: [practice]
 ---
 
 
