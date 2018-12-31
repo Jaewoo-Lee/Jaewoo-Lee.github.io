@@ -1,7 +1,7 @@
----
+﻿---
 title:  "Second post!"
 date:   2018-12-27 15:04:23
-categories: ['start camp']
+categories: ['Start camp']
 tags: ['뜨거운 생활']
 ---
 

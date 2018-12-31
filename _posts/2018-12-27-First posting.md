@@ -1,8 +1,8 @@
----
+﻿---
 title:  "Git blog 첫 게시물!"
 date:   2018-12-27 15:04:23
 categories: [Practice]
-tags: [practice]
+tags: [First]
 ---
 첫번째 글입니다.
 

@@ -1,8 +1,8 @@
----
+﻿---
 title: "첫 이미지 포스팅"
 date: 2018-12-28 18:19
-categories: [일상]
-tags: ['바다', '여행']
+categories: [이것저것]
+tags: ['바다', '여행', 'First']
 ---
 
 
